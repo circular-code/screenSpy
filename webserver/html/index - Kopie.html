@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Streaming Web App</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" href="/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+  </head>
+  <body>
+    <div id="siteHeader">
+      <h1>Web App - Streaming Service v 0.92</h1>
+      <button id="userInfo"><i class="fa fa-user"></i>
+      </button>
+      <select id="streamSelect" onchange="selectStream(value);">
+        <option value="overview">Übersicht</option>
+      </select>
+    </div>
+    <div id="siteWrapper">
+      <div id="testDiv">
+      </div>
+      <!--<button id="testGetButton2" onclick="getTestData()">INIT</button>
+      <button id="testGetButton" onclick="selectStreamOne()">SELECT</button>-->
+      <canvas id="streamCanvas" class="canvas">
+      </canvas>
+      <canvas id="overlayCanvas" class="canvas">
+      </canvas>
+    </div>
+    <div id="userInfoModal" class="modal">
+      <div class="modal-content">
+        <div class="modal-header">
+          <span id="modalCloseButton" class="close">&times;</span>
+          <h2>User Info</h2>
+        </div>
+        <div id="userInfoContent" class="modal-body">
+        </div>
+      </div>
+    </div>
+    <script src="/js/defaulthelper.js" type="text/javascript"></script>
+  </body>
+</html>
