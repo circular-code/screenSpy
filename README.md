@@ -3,6 +3,8 @@
 Web application for displaying screen content. 
 Warning. This application can be used remotely to "spy" on other computers in the network. It is forbidden to use this without permission of the subject.
 
+sctx.exe by github.com/GhostTyper
+
 ## How to use:
 
 1. clone repository
