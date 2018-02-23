@@ -7,6 +7,6 @@ Warning. This application can be used remotely to "spy" on other computers in th
 
 1. clone repository
 2. execute SCTX.exe
-3: start nginx webserver (run webserver/nginx.exe)
-4: open index.html in a browser
-5: select screen to be displayed
+3. start nginx webserver (run webserver/nginx.exe)
+4. open index.html in a browser
+5. select screen to be displayed
