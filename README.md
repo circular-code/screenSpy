@@ -17,4 +17,5 @@ sctx.exe by [GhostTyper](https://github.com/GhostTyper)
 
 Since sctx.exe makes use of sensible screen data to display in the app, it might get catched by an antivirus software.
 https://www.virustotal.com/#/file/9f4927fdbeefcbd0f1da6bacc02566fdf192a6717e4d5dc8d82238243e457df3/detection
-(I tested this on my pc and it got catched and removed by Avast Mobile Security even though this test says it's clean)
+(I tested this on my pc and it got catched and removed by Avast even though this test says it's clean)
+If the .exe dissapears, check your antivirus quarantine.
