@@ -8,9 +8,9 @@ sctx.exe by [GhostTyper](https://github.com/GhostTyper)
 ## How to use:
 
 1. clone repository
-2. execute SCTX.exe
+2. execute SCTX.exe (preferably as Admin)
 3. start nginx webserver (run webserver/nginx.exe)
-4. open index.html in a browser
+4. open localhost in a browser
 5. select screen to be displayed
 
 ## Hint
