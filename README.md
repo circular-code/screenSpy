@@ -3,7 +3,7 @@
 Web application for displaying screen content. 
 Warning. If configured in a certain way this application can be used remotely to "spy" on other computers in the network. It is forbidden to use this without permission of the subject.
 
-sctx.exe by [GhostTyper](https://github.com/GhostTyper) 
+sctx.exe and sharpFCGI.dll by [GhostTyper](https://github.com/GhostTyper) 
 
 ## How to use:
 
